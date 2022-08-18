@@ -2,4 +2,4 @@
 Completed in Creative Coding course
 Banner created for Griffith college
 
-[Click here to view the work](https://williamlin32.github.io/Banner-for-griffith){:target="_blank"}
+<a href="https://williamlin32.github.io/Banner-for-griffith" target="_blank">Click here to view the work</a>
